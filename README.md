@@ -6,10 +6,10 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/atiksoftware/tiktok_auto_comment_and_like?color=brightgreen)]()
 [![GitHub issues](https://img.shields.io/github/issues/atiksoftware/tiktok_auto_comment_and_like?color=blue)]()
 
-Its just puppeteer browser script
+Its just puppeteer browser script.
 
 What is this. This opening titktok home page. And walking on videos.  
-Adding a random cumment and like last 20 comment
+Adding a random cumment and like last 20 comment.
 
 Note: need JSON cookie list from already logged in. you can use chrome or firefox.  
 I used firefox  
