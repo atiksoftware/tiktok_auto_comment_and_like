@@ -1,0 +1,47 @@
+[
+	{
+		"description" : "this is an example. you should export cookies lilke this format from your browser"
+	},
+    {
+        "name": "R6GQ3CV2",
+        "value": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA|1|0|AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "domain": ".tiktok.com",
+        "path": "/",
+        "expires": -1,
+        "size": 113,
+        "httpOnly": true,
+        "secure": true,
+        "session": true,
+        "sameParty": false,
+        "sourceScheme": "Secure",
+        "sourcePort": 443
+    },
+    {
+        "name": "s_v_web_id",
+        "value": "verify_AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "domain": "www.tiktok.com",
+        "path": "/",
+        "expires": -1,
+        "size": 62,
+        "httpOnly": false,
+        "secure": false,
+        "session": true,
+        "sameParty": false,
+        "sourceScheme": "NonSecure",
+        "sourcePort": 80
+    },
+    {
+        "name": "passport_auth_status",
+        "value": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "domain": ".tiktok.com",
+        "path": "/",
+        "expires": -1,
+        "size": 55,
+        "httpOnly": true,
+        "secure": false,
+        "session": true,
+        "sameParty": false,
+        "sourceScheme": "NonSecure",
+        "sourcePort": 80
+    }
+]

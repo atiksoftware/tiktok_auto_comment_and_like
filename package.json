@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "cli-progress": "^3.9.0",
+    "colors": "^1.4.0",
+    "fs": "^0.0.1-security",
+    "lodash": "^4.17.21",
+    "puppeteer": "^8.0.0",
+    "puppeteer-extra": "^3.1.18",
+    "puppeteer-extra-plugin-stealth": "^2.7.6"
+  }
+}
