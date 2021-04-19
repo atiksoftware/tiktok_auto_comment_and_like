@@ -11,7 +11,7 @@ Its just puppeteer browser script
 What is this. This opening titktok home page. And walking on videos.  
 Adding a random cumment and like last 20 comment
 
-Note: needJSOn cookie list from already logged in. you can use chrome or firefox.  
+Note: need JSON cookie list from already logged in. you can use chrome or firefox.  
 I used firefox  
 https://addons.mozilla.org/tr/firefox/addon/a-cookie-manager/  
 this addon for export cookies as JSON format
